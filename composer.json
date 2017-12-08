@@ -1,20 +1,9 @@
 {
   "name": "deepaq/bestlang-starter",
-  "description": "BestLang: Yet another PHP MVC framework",
-  "version": "1.0.0-dev",
+  "description": "Starter kit for BestLang: Yet another PHP MVC framework",
   "type": "project",
-  "homepage": "https://github.com/DeepAQ/BestLang",
-  "license": "Apache-2.0",
-  "authors": [
-    {
-      "name": "DeepAQ",
-      "email": "i@aq741.com"
-    }
-  ],
-  "config": {
-    "secure-http": false
-  },
+  "homepage": "https://github.com/DeepAQ/BestLang-starter",
   "require": {
-    "deepaq/bestlang": "dev-master"
+    "deepaq/bestlang": "^1"
   }
 }
